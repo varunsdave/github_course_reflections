@@ -11,3 +11,6 @@ you should use branches to add any new features and backups or moving onto a new
 visualization helps structure the tree that makes it easier to read
 
 
+git show is used to tell the difference between commit and it's parent
+
+

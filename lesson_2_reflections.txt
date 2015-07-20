@@ -3,3 +3,11 @@ New lesson 2 reflections
 when we initialize a new repository sets up git enviroment for that folder. 
 
 the staging area is the intermediate area
+
+you can use staging area by using diff commits and doing one change at a time
+
+you should use branches to add any new features and backups or moving onto a new piece of work
+
+visualization helps structure the tree that makes it easier to read
+
+

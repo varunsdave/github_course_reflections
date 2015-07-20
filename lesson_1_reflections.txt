@@ -1,0 +1,13 @@
+saving reflections of lesson one.
+
+in mac diff -u provides easy to read comparison of two files. + means line was added and - means line was removed.
+Viewing files made it easy to tell the difference.
+
+It was difficult to know where the problem was.
+
+You can make it esay by quickly reverting to a working copy is something fails. 
+
+Pro's of git. easy to revert back, easy to navigate
+con's of manual git. easy to create too big of a change. sometimes too small changes get added. 
+
+they allow to save multiple because programming is dependent on multiple files. and chances are you will edit multiple files. 

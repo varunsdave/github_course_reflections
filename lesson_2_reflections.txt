@@ -1,3 +1,5 @@
 New lesson 2 reflections
 
 when we initialize a new repository sets up git enviroment for that folder. 
+
+the staging area is the intermediate area
